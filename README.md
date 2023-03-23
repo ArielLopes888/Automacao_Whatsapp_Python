@@ -1,16 +1,16 @@
-<h1 align="center">Welcome to automação_whats 👋</h1>
+<h1 align="center">Welcome to Whatsapp Automation</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Envio autmatizado de mensagens em massa no whatsapp [@Vídeo do bot funcionando](https://www.linkedin.com/posts/ariel-lisboa-lopes-6ba7a7168_python-activity-6910632403921158144-ao-L?utm_source=share&utm_medium=member_desktop)
+> Automated sending of bulk messages in whatsapp [@Bot working video](https://www.linkedin.com/posts/ariel-lisboa-lopes-6ba7a7168_python-activity-6910632403921158144-ao-L?utm_source=share&utm_medium=member_desktop)
 
 ### 🏠 [Homepage]( )
 
 ## Usage
 
 ```sh
-Criei esse bot para automatizar uma tarefa do meu negócio! O bot entra no whatsapp e envia a mensagem personalizada para o contato, após fazer  a leitura das informações, (Nome, Número e Mensagem) na planilha excel.
+I created this bot to automate a task in my business! The bot enters whatsapp and sends the personalized message to the contact, after reading the information (Name, Number and Message) in the excel spreadsheet.
 ```
 
 ## Author
@@ -25,4 +25,3 @@ Criei esse bot para automatizar uma tarefa do meu negócio! O bot entra no whats
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
