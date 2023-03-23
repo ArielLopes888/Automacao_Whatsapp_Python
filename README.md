@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Envio autmatizado de mensagens em massa no whatsapp
+> Envio autmatizado de mensagens em massa no whatsapp [@Vídeo do bot funcionando](https://www.linkedin.com/posts/ariel-lisboa-lopes-6ba7a7168_python-activity-6910632403921158144-ao-L?utm_source=share&utm_medium=member_desktop)
 
 ### 🏠 [Homepage]( )
 
