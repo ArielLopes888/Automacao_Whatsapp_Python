@@ -10,7 +10,7 @@
 ## Usage
 
 ```sh
-O bot entra no whatsapp e envia a mensagem personalizada para o contato, após fazer  a leitura das informações, (Nome, Número e Mensagem) na planilha excel.
+Criei esse bot para automatizar uma tarefa do meu negócio! O bot entra no whatsapp e envia a mensagem personalizada para o contato, após fazer  a leitura das informações, (Nome, Número e Mensagem) na planilha excel.
 ```
 
 ## Author
